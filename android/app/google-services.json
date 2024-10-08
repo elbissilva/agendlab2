@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165258134187",
+    "project_id": "agendlab2",
+    "storage_bucket": "agendlab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165258134187:android:c3aca6f4f71a6335f22dee",
+        "android_client_info": {
+          "package_name": "com.example.agendlab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKGNTQu8hzzlVXXaU_egEh7FJQuyuJ8SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
